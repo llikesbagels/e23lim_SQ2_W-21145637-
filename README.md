@@ -1,6 +1,6 @@
 SIDE QUEST 2:
 
-Setup and Interaction Instructions: Open the URL, Use WASD to move the avatar around the scene.
+Setup and Interaction Instructions: Open the URL, Use WASD to move the avatar around the scene. Use W to Jump.
 
 Assets:
 
