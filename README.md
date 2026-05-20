@@ -1,9 +1,18 @@
-SIDE QUEST 2:
+# e23lim_SQ_W#21145637
 
-Setup and Interaction Instructions: Open the URL, Use WASD or arrows to move the avatar around the scene. Use W to Jump. and If you go to the top platform it will turn red.
+SIDE QUEST 1:
+
+Setup and Interaction Instructions:
+Open the URL.
 
 Assets:
 
-Background Image: [1] STEAM. 2021. "Celeste Summit Level Background". JPG. Retrieved May 20, 2026. [https://steamcommunity.com/sharedfiles/filedetails/?id=2628212053]
+Background:
+https://www.pngmart.com/image/694155 
 
-Avatar Image: [1] PNG MART. 2026. "Celeste Game, Exploration, Story, Platformer, Pixel Art PNG". PNG. Retrieved May 20, 2026. [https://www.pngmart.com/image/505831]
+Image:
+https://www.magnific.com/free-photo/kids-playing-around-calm-cosy-spaces_30893463.htm#fromView=keyword&page=5&position=27&uuid=1b59f632-6bd6-4f31-8c47-2e6a2d76193c&query=Jenga+png   
+
+
+
+
