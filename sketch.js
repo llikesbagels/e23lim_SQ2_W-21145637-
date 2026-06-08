@@ -49,7 +49,6 @@ function preload() {
   
   avatar = loadImage("libraries/assets/Celeste-Game-PNG-Background-Image.png"); // [2]
   
-  changeback = loadImage("libraries/assets/bigboy.png"); // [3]
 }
 
 function setup() {
