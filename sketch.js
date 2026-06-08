@@ -44,12 +44,12 @@ let player = {
 
 
 function preload() {
-   celesteback = loadImage("libraries/assets/celestebackground.jpg");
+   celesteback = loadImage("libraries/assets/celestebackground.jpg"); // [1]
 
   
-  avatar = loadImage("libraries/assets/Celeste-Game-PNG-Background-Image.png");
+  avatar = loadImage("libraries/assets/Celeste-Game-PNG-Background-Image.png"); // [2]
   
-  changeback = loadImage("libraries/assets/bigboy.png");
+  changeback = loadImage("libraries/assets/bigboy.png"); // [3]
 }
 
 function setup() {
