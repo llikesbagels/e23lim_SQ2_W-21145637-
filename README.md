@@ -22,8 +22,8 @@ The console will show any errors in your sketch.
 
 | File | Source |
 |------|--------|
-| `libraries\assets\celestebackground.jpg` | TAKEN FROM STEAM |
-| `libraries\assets\celeste.jpg` | TAKEN FROM PNG MART |
+|[1] `libraries\assets\celestebackground.jpg` | TAKEN FROM STEAM |
+|[2] `libraries\assets\celeste.jpg` | TAKEN FROM PNG MART |
 
 ## References
 
